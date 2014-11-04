@@ -21,6 +21,68 @@
   <defs
      id="defs4">
     <marker
+       inkscape:stockid="Tail"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Tail"
+       style="overflow:visible">
+      <g
+         id="g4213"
+         transform="scale(-1.2)">
+        <path
+           id="path4215"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4217"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4219"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4221"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4223"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4225"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyTriangleOutS"
+       style="overflow:visible">
+      <path
+         id="path4343"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.2) translate(-3.0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="StopS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="StopS"
+       style="overflow:visible">
+      <path
+         id="path4352"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
@@ -43,8 +105,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.82492071"
-     inkscape:cx="565.28582"
-     inkscape:cy="420.13807"
+     inkscape:cx="445.76218"
+     inkscape:cy="507.57594"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -310,18 +372,12 @@
        x="147.35417"
        y="269.41562" />
     <rect
-       y="210.68472"
-       x="277.45465"
+       y="213.10919"
+       x="266.54453"
        height="17"
-       width="161.03784"
+       width="200"
        id="rect6254"
        style="fill:#e9ebaa;fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path6259"
-       d="m 277.52158,278.18587 161.03785,0 20,8.5 -20,8.5 -161.03785,0 -20,-8.5 z"
-       style="fill:#ffb13b;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
@@ -334,12 +390,11 @@
          x="215.68245"
          y="317.9921">http://ndpsoftware.com/git-cheatsheet.html</tspan></text>
     <g
-       id="g3268"
-       transform="translate(62.349549,235.40781)">
+       id="g5428">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-22.242639,-57.26367)"
+         transform="translate(51.017049,175.71966)"
          id="use3266"
          xlink:href="#rect6254"
          y="0"
@@ -347,22 +402,21 @@
       <text
          sodipodi:linespacing="125%"
          id="text4970"
-         y="165.40106"
-         x="317.76093"
+         y="400.80884"
+         x="399.59158"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="165.40106"
-           x="317.76093"
+           y="400.80884"
+           x="399.59158"
            id="tspan4972"
            sodipodi:role="line">status</tspan></text>
     </g>
     <g
-       id="g3275"
-       transform="translate(161.23243,241.05826)">
+       id="g5433">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-120.18378,-40.31231)"
+         transform="translate(51.958789,198.32147)"
          id="use3273"
          xlink:href="#rect6254"
          y="0"
@@ -370,22 +424,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text4974"
-         y="182.82642"
-         x="225.62779"
+         y="423.88467"
+         x="406.34131"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="182.82642"
-           x="225.62779"
+           y="423.88467"
+           x="406.34131"
            id="tspan4976"
            sodipodi:role="line">diff</tspan></text>
     </g>
     <g
-       id="g3282"
-       transform="translate(164.9994,240.65751)">
+       id="g5438"
+       transform="translate(-15.718355,3.6367131)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(2.4327485,0,0,1,-517.70651,-13.0018)"
+         transform="matrix(2,0,0,1,-210.81874,225.23123)"
          id="use3280"
          xlink:href="#rect6254"
          y="0"
@@ -393,22 +447,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text4978"
-         y="210.12492"
-         x="168.7298"
+         y="450.78241"
+         x="453.2103"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="210.12492"
-           x="168.7298"
+           y="450.78241"
+           x="453.2103"
            id="tspan4980"
            sodipodi:role="line">diff &lt;commit or branch&gt;</tspan></text>
     </g>
     <g
-       id="g3289"
-       transform="translate(109.43664,226.93213)">
+       id="g5443"
+       transform="translate(-13.571545,0)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-68.387981,-1.7008998)"
+         transform="translate(48.322085,227.65571)"
          id="use3287"
          xlink:href="#path3114"
          y="0"
@@ -416,22 +470,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text4982"
-         y="251.3817"
-         x="227.46655"
+         y="478.31384"
+         x="320.88626"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="251.3817"
-           x="227.46655"
+           y="478.31384"
+           x="320.88626"
            id="tspan4984"
            sodipodi:role="line">add &lt;file... or dir...&gt;</tspan></text>
     </g>
     <g
-       id="g3296"
-       transform="translate(70.825225,232.58258)">
+       id="g5448"
+       transform="translate(-13.571534,0)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-29.776577,15.25045)"
+         transform="translate(48.322074,250.25751)"
          id="use3294"
          xlink:href="#path3114"
          y="0"
@@ -439,22 +493,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text4986"
-         y="268.30905"
-         x="317.23395"
+         y="500.89163"
+         x="320.88623"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="268.30905"
-           x="317.23395"
+           y="500.89163"
+           x="320.88623"
            id="tspan4988"
            sodipodi:role="line">add -u</tspan></text>
     </g>
     <g
-       id="g3303"
-       transform="translate(68,242)">
+       id="g5453"
+       transform="translate(-16.39676,0)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-24.126126,29.37658)"
+         transform="translate(51.1473,273.80106)"
          id="use3301"
          xlink:href="#path3114"
          y="0"
@@ -462,22 +516,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text4990"
-         y="281.48718"
-         x="295.42841"
+         y="523.48718"
+         x="323.11148"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="281.48718"
-           x="295.42841"
+           y="523.48718"
+           x="323.11148"
            id="tspan4992"
            sodipodi:role="line">rm &lt;file(s)...&gt;</tspan></text>
     </g>
     <g
-       id="g3310"
-       transform="translate(68,242)">
+       id="g5458"
+       transform="translate(-15.455018,-1.2122377)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-25.067868,52.92012)"
+         transform="translate(50.205558,297.3446)"
          id="use3308"
          xlink:href="#path3114"
          y="0"
@@ -485,22 +539,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text4994"
-         y="305.03073"
-         x="294.85867"
+         y="547.0307"
+         x="322.91373"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="305.03073"
-           x="294.85867"
+           y="547.0307"
+           x="322.91373"
            id="tspan4996"
            sodipodi:role="line">mv &lt;file(s)...&gt;</tspan></text>
     </g>
     <g
-       id="g4335"
-       transform="translate(0,16)">
+       id="g5463"
+       transform="translate(-16.39676,1.2122377)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(2.1444191,0,0,1,-270.18402,299.18198)"
+         transform="matrix(2,0,0,1,-216.00487,317.60646)"
          id="use3315"
          xlink:href="#path3114"
          y="0"
@@ -508,22 +562,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text4998"
-         y="551.29858"
-         x="349.2684"
+         y="567.29858"
+         x="323.62747"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="551.29858"
-           x="349.2684"
+           y="567.29858"
+           x="323.62747"
            id="tspan5000"
            sodipodi:role="line">commit -a [-m 'msg']</tspan></text>
     </g>
     <g
-       id="g3319"
-       transform="translate(56.699099,207.64084)">
+       id="g5468"
+       transform="translate(13.448325,0)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-1,0,0,1,719.88906,133.90991)"
+         transform="matrix(-1,0,0,1,765.2558,343.97525)"
          id="use3317"
          xlink:href="#path3114"
          y="0"
@@ -531,22 +585,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5002"
-         y="386.02051"
-         x="267.81253"
+         y="593.66138"
+         x="318.51163"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="386.02051"
-           x="267.81253"
+           y="593.66138"
+           x="318.51163"
            id="tspan5004"
            sodipodi:role="line">checkout &lt;files(s)... or dir&gt;</tspan></text>
     </g>
     <g
-       id="g3411"
-       transform="translate(-225.15217,-358.28437)">
+       id="g5646"
+       transform="translate(-25.50136,31.518181)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(376.11411,507.78137)"
+         transform="translate(165.50879,120.40329)"
          id="use3401"
          xlink:href="#rect6254"
          y="0"
@@ -554,22 +608,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5006"
-         y="729.9361"
-         x="664.69769"
+         y="344.98248"
+         x="462.66333"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="729.9361"
-           x="664.69769"
+           y="344.98248"
+           x="462.66333"
            id="tspan5008"
            sodipodi:role="line">reset HEAD &lt;file(s)...&gt;</tspan></text>
     </g>
     <g
-       id="g4210"
-       transform="translate(-135.14572,80.315149)">
+       id="g5533"
+       transform="translate(29.43646,1.2122377)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="matrix(-1,0,0,1,1110.7119,533.2084)"
+         transform="matrix(-1,0,0,1,965.86827,243.79105)"
          id="use3405"
          xlink:href="#path3114"
          y="0"
@@ -577,22 +631,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5010"
-         y="786.29102"
-         x="691.75537"
+         y="494.44919"
+         x="585.88013"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="786.29102"
-           x="691.75537"
+           y="494.44919"
+           x="585.88013"
            id="tspan5012"
            sodipodi:role="line">reset --soft HEAD^</tspan></text>
     </g>
     <g
-       id="g3326"
-       transform="translate(62.34955,205.75736)">
+       id="g5473"
+       transform="translate(10.5151,2.4244754)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-2.20164,0,0,1,1254.9496,161.22042)"
+         transform="matrix(-2,0,0,1,1251.9418,366.97778)"
          id="use3324"
          xlink:href="#path3114"
          y="0"
@@ -600,22 +654,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5014"
-         y="414.27902"
-         x="306.4259"
+         y="617.61194"
+         x="640.27344"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="414.27902"
-           x="306.4259"
+           y="617.61194"
+           x="640.27344"
            id="tspan5016"
            sodipodi:role="line">reset --hard</tspan></text>
     </g>
     <g
-       id="g3333"
-       transform="translate(68,218)">
+       id="g5478"
+       transform="translate(8.0652,-9.6979017)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-2.1860343,0,0,1,1243.133,179.11352)"
+         transform="matrix(-2,0,0,1,1254.3917,398.32576)"
          id="use3331"
          xlink:href="#path3114"
          y="0"
@@ -623,22 +677,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5018"
-         y="432.16614"
-         x="286.86118"
+         y="648.95392"
+         x="612.49536"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="432.16614"
-           x="286.86118"
+           y="648.95392"
+           x="612.49536"
            id="tspan5020"
            sodipodi:role="line">checkout &lt;branch&gt;</tspan></text>
     </g>
     <g
-       id="g3340"
-       transform="translate(68,218)">
+       id="g5483"
+       transform="translate(9.2335,-15.75909)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-2.0976019,0,0,1,1216.9814,206.42402)"
+         transform="matrix(-2,0,0,1,1253.2234,424.42402)"
          id="use3338"
          xlink:href="#path3114"
          y="0"
@@ -646,22 +700,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5022"
-         y="459.50662"
-         x="295.34106"
+         y="675.08215"
+         x="521.32709"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="459.50662"
-           x="295.34106"
+           y="675.08215"
+           x="521.32709"
            id="tspan5024"
            sodipodi:role="line">checkout -b &lt;name of new branch&gt;</tspan></text>
     </g>
     <g
-       id="g3347"
-       transform="translate(156.52372,186.92252)">
+       id="g5488"
+       transform="translate(5.078,-19.395804)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-2.1392172,0,0,1,1137.8096,260.10331)"
+         transform="matrix(-2,0,0,1,1257.3789,448.23807)"
          id="use3345"
          xlink:href="#path3114"
          y="0"
@@ -669,22 +723,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5026"
-         y="512.19592"
-         x="285.09592"
+         y="697.90619"
+         x="573.48254"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="512.19592"
-           x="285.09592"
+           y="697.90619"
+           x="573.48254"
            id="tspan5028"
            sodipodi:role="line">merge &lt;commit or branch&gt;</tspan></text>
     </g>
     <g
-       id="g3360"
-       transform="translate(68,182.21381)">
+       id="g5493"
+       transform="translate(9.1695,-23.032517)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-2.1444191,0,0,1,1230.771,289.29729)"
+         transform="matrix(-2,0,0,1,1253.2874,472.72334)"
          id="use3358"
          xlink:href="#path3114"
          y="0"
@@ -692,22 +746,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5030"
-         y="541.4259"
-         x="396.78696"
+         y="722.42749"
+         x="611.39105"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="541.4259"
-           x="396.78696"
+           y="722.42749"
+           x="611.39105"
            id="tspan5032"
            sodipodi:role="line">rebase &lt;upstream&gt;</tspan></text>
     </g>
     <g
-       id="g3365"
-       transform="translate(76.475676,169.02943)">
+       id="g5498"
+       transform="translate(8.8929,-24.244754)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-2.0299772,0,0,1,1176.7634,326.96696)"
+         transform="matrix(-2,0,0,1,1253.564,495.99639)"
          id="use3356"
          xlink:href="#path3114"
          y="0"
@@ -715,22 +769,21 @@
       <text
          sodipodi:linespacing="125%"
          id="text5034"
-         y="579.04755"
-         x="375.80231"
+         y="745.65253"
+         x="593.66766"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="579.04755"
-           x="375.80231"
+           y="745.65253"
+           x="593.66766"
            id="tspan5036"
            sodipodi:role="line">cherry-pick &lt;commit&gt;</tspan></text>
     </g>
     <g
-       id="g3370"
-       transform="translate(70.825225,167.14595)">
+       id="g5670">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-2.0611886,0,0,1,1191.9208,356.16095)"
+         transform="matrix(-2,0,0,1,1262.4569,494.2132)"
          id="use3354"
          xlink:href="#path3114"
          y="0"
@@ -738,22 +791,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5038"
-         y="609.15356"
-         x="394.31128"
+         y="744.78131"
+         x="632.56061"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="609.15356"
-           x="394.31128"
+           y="744.78131"
+           x="632.56061"
            id="tspan5040"
            sodipodi:role="line">revert &lt;commit&gt;</tspan></text>
     </g>
     <g
-       id="g4215"
-       transform="translate(55.086111,104.80043)">
+       id="g5528"
+       transform="translate(-15.977516,2.4244754)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(197.04245,562.62498)"
+         transform="translate(261.82646,246.77892)"
          id="use3403"
          xlink:href="#rect6254"
          y="0"
@@ -761,22 +814,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5042"
-         y="785.29572"
-         x="483.53802"
+         y="471.87411"
+         x="556.89301"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="785.29572"
-           x="483.53802"
+           y="471.87411"
+           x="556.89301"
            id="tspan5044"
            sodipodi:role="line">diff --cached [&lt;commit&gt;]</tspan></text>
     </g>
     <g
-       id="g4220"
-       transform="translate(73.920946,99.149979)">
+       id="g5538"
+       transform="translate(-15.386485,-1.2122377)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(168.59189,558.86398)"
+         transform="translate(249.78627,267.67342)"
          id="use3407"
          xlink:href="#path3114"
          y="0"
@@ -784,22 +837,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5046"
-         y="810.98059"
-         x="482.98642"
+         y="517.36554"
+         x="522.26642"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="810.98059"
-           x="482.98642"
+           y="517.36554"
+           x="522.26642"
            id="tspan5048"
            sodipodi:role="line">commit [-m 'msg']</tspan></text>
     </g>
     <g
-       id="g4225"
-       transform="translate(87.10533,100.09172)">
+       id="g5543"
+       transform="translate(-17.499255,4.8489509)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(157.52028,580.17896)"
+         transform="translate(251.89904,289.93014)"
          id="use3409"
          xlink:href="#path3114"
          y="0"
@@ -807,22 +860,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5050"
-         y="833.23157"
-         x="480.44681"
+         y="540.55829"
+         x="524.37921"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="833.23157"
-           x="480.44681"
+           y="540.55829"
+           x="524.37921"
            id="tspan5052"
            sodipodi:role="line">commit --amend</tspan></text>
     </g>
     <g
-       id="g4248"
-       transform="translate(-172.14414,-524.99162)">
+       id="g5548"
+       transform="translate(-33.185515,10.910139)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(535.26846,671.64444)"
+         transform="translate(389.79355,130.89373)"
          id="use4230"
          xlink:href="#rect6254"
          y="0"
@@ -830,22 +883,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5054"
-         y="893.77515"
-         x="883.93005"
+         y="355.44891"
+         x="747.02606"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="893.77515"
-           x="883.93005"
+           y="355.44891"
+           x="747.02606"
            id="tspan5056"
            sodipodi:role="line">log</tspan></text>
     </g>
     <g
-       id="g4253"
-       transform="translate(72.708709,-756.66008)">
+       id="g5553"
+       transform="translate(-18.507275,0)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(291.49646,923.5449)"
+         transform="translate(375.11531,164.46034)"
          id="use4232"
          xlink:href="#rect6254"
          y="0"
@@ -853,22 +906,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5058"
-         y="1146.6716"
-         x="583.41003"
+         y="390.01154"
+         x="675.59985"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="1146.6716"
-           x="583.41003"
+           y="390.01154"
+           x="675.59985"
            id="tspan5060"
            sodipodi:role="line">diff &lt;commit&gt; &lt;commit&gt;</tspan></text>
     </g>
     <g
-       id="g4258"
-       transform="translate(110.37838,-761.36879)">
+       id="g5558"
+       transform="translate(-17.980875,0)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(253.30039,948.0933)"
+         transform="translate(374.58891,184.30003)"
          id="use4234"
          xlink:href="#rect6254"
          y="0"
@@ -876,22 +929,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5062"
-         y="1171.196"
-         x="593.32196"
+         y="409.82721"
+         x="723.18146"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="1171.196"
-           x="593.32196"
+           y="409.82721"
+           x="723.18146"
            id="tspan5064"
            sodipodi:role="line">branch</tspan></text>
     </g>
     <g
-       id="g4263"
-       transform="translate(77.417417,-767.01924)">
+       id="g5563"
+       transform="translate(-18.735435,0)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(287.01591,973.6069)"
+         transform="translate(375.34347,204.16318)"
          id="use4236"
          xlink:href="#rect6254"
          y="0"
@@ -899,22 +952,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5066"
-         y="1196.7096"
-         x="590.83948"
+         y="429.69037"
+         x="687.73798"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="1196.7096"
-           x="590.83948"
+           y="429.69037"
+           x="687.73798"
            id="tspan5068"
            sodipodi:role="line">branch -d &lt;branch&gt;</tspan></text>
     </g>
     <g
-       id="g3375"
-       transform="translate(65.174775,164.32072)">
+       id="g5508"
+       transform="translate(11.313968,-35.154894)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-3.3564629,0,0,1,1785.6378,384.41321)"
+         transform="matrix(-3,0,0,1,1730.187,551.15841)"
          id="use3352"
          xlink:href="#path3114"
          y="0"
@@ -922,22 +975,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5070"
-         y="636.53583"
-         x="407.8071"
+         y="800.85657"
+         x="851.13849"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="636.53583"
-           x="407.8071"
+           y="800.85657"
+           x="851.13849"
            id="tspan5072"
            sodipodi:role="line">clone &lt;repo&gt;</tspan></text>
     </g>
     <g
-       id="g3386"
-       transform="translate(69.883483,199.16516)">
+       id="g5513"
+       transform="translate(9.083668,-30.305943)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-3.3096457,0,0,1,1763.3727,369.34534)"
+         transform="matrix(-3,0,0,1,1732.4173,570.93498)"
          id="use3380"
          xlink:href="#path3114"
          y="0"
@@ -945,22 +998,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5074"
-         y="621.50397"
-         x="376.67267"
+         y="820.66913"
+         x="787.36877"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="621.50397"
-           x="376.67267"
+           y="820.66913"
+           x="787.36877"
            id="tspan5076"
            sodipodi:role="line">pull &lt;remote&gt; &lt;refspec&gt;</tspan></text>
     </g>
     <g
-       id="g3391"
-       transform="translate(68.941742,209.52432)">
+       id="g5518"
+       transform="translate(7.970168,-30.305943)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-3.3148477,0,0,1,1766.6837,379.7045)"
+         transform="matrix(-3,0,0,1,1733.5308,592.86554)"
          id="use3382"
          xlink:href="#path3114"
          y="0"
@@ -968,22 +1021,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5078"
-         y="632.57709"
-         x="357.78699"
+         y="843.31366"
+         x="746.4823"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="632.57709"
-           x="357.78699"
+           y="843.31366"
+           x="746.4823"
            id="tspan5080"
            sodipodi:role="line">reset --hard &lt;remote&gt;/&lt;branch&gt;</tspan></text>
     </g>
     <g
-       id="g4273"
-       transform="translate(163.25616,-784.65086)">
+       id="g5573"
+       transform="translate(22.909228,2.4244755)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="matrix(-1,0,0,1,1028.3046,1003.3144)"
+         transform="matrix(-1,0,0,1,1184.2874,221.08802)"
          id="use4240"
          xlink:href="#path3114"
          y="0"
@@ -991,22 +1044,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5082"
-         y="1255.473"
-         x="591.19208"
+         y="470.82214"
+         x="767.54321"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="1255.473"
-           x="591.19208"
+           y="470.82214"
+           x="767.54321"
            id="tspan5084"
            sodipodi:role="line">fetch &lt;remote&gt; &lt;refspec&gt;</tspan></text>
     </g>
     <g
-       id="g4278"
-       transform="translate(218.81892,-782.76737)">
+       id="g5578"
+       transform="translate(-22.21436,29.093705)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(247.1224,1022.6619)"
+         transform="translate(473.21475,242.31901)"
          id="use4242"
          xlink:href="#path3114"
          y="0"
@@ -1014,22 +1067,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5086"
-         y="1274.7845"
-         x="600.11493"
+         y="492.01715"
+         x="745.65894"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="1274.7845"
-           x="600.11493"
+           y="492.01715"
+           x="745.65894"
            id="tspan5088"
            sodipodi:role="line">push</tspan></text>
     </g>
     <g
-       id="g4283"
-       transform="translate(167.96486,-778.05867)">
+       id="g5583"
+       transform="translate(-18.39479,31.518181)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(294.15689,1039.9224)"
+         transform="translate(469.39518,264.28821)"
          id="use4244"
          xlink:href="#path3114"
          y="0"
@@ -1037,22 +1090,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5090"
-         y="1292.051"
-         x="592.95142"
+         y="513.99231"
+         x="741.83936"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="1292.051"
-           x="592.95142"
+           y="513.99231"
+           x="741.83936"
            id="tspan5092"
            sodipodi:role="line">push &lt;remote&gt; &lt;branch&gt;</tspan></text>
     </g>
     <g
-       id="g4324"
-       transform="translate(59.524324,118.18499)">
+       id="g5601"
+       transform="translate(-24.018607,0)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(522.08408,34.08528)"
+         transform="translate(592.51854,149.84579)"
          id="use4322"
          xlink:href="#rect6254"
          y="0"
@@ -1060,22 +1113,21 @@
       <text
          sodipodi:linespacing="125%"
          id="text5094"
-         y="257.18802"
-         x="852.95563"
+         y="375.37299"
+         x="931.96106"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="257.18802"
-           x="852.95563"
+           y="375.37299"
+           x="931.96106"
            id="tspan5096"
            sodipodi:role="line">branch -r</tspan></text>
     </g>
     <g
-       id="g4310"
-       transform="translate(-45.95075,-296.18138)">
+       id="g5654">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(626.01585,441.70913)"
+         transform="translate(567.89229,147.95223)"
          id="use4246"
          xlink:href="#path3114"
          y="0"
@@ -1083,45 +1135,41 @@
       <text
          sodipodi:linespacing="125%"
          id="text5098"
-         y="693.83771"
-         x="921.81036"
+         y="397.65637"
+         x="840.33649"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="693.83771"
-           x="921.81036"
+           y="397.65637"
+           x="840.33649"
            id="tspan5100"
            sodipodi:role="line">push &lt;remote&gt; :&lt;branch&gt;</tspan></text>
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3114"
+       id="use3384"
+       transform="matrix(-1,0,0,1,674.05488,125.44229)"
+       width="744.09448"
+       height="1052.3622" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       x="359.97803"
+       y="376.07043"
+       id="text5102"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5104"
+         x="359.97803"
+         y="376.07043">clean</tspan></text>
     <g
-       id="g3396"
-       transform="translate(68.671246,76.493986)">
+       id="g5393"
+       transform="translate(17.03219,-2.4244754)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(-1,0,0,1,596.94877,535.05561)"
-         id="use3384"
-         xlink:href="#path3114"
-         y="0"
-         x="0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text5102"
-         y="788.10822"
-         x="217.08224"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
-         xml:space="preserve"><tspan
-           y="788.10822"
-           x="217.08224"
-           id="tspan5104"
-           sodipodi:role="line">clean</tspan></text>
-    </g>
-    <g
-       id="g3212"
-       transform="translate(64.233033,200.11652)">
-      <use
-         height="1052.3622"
-         width="744.09448"
-         transform="matrix(-1,0,0,1,505.06309,-87.41499)"
+         transform="matrix(-1,0,0,1,562.02269,155.12601)"
          id="use3210"
          xlink:href="#path3114"
          y="0"
@@ -1129,22 +1177,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5106"
-         y="164.70161"
-         x="86.568558"
+         y="404.81815"
+         x="182.44252"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="164.70161"
-           x="86.568558"
+           y="404.81815"
+           x="182.44252"
            id="tspan5108"
            sodipodi:role="line">stash save [&lt;msg&gt;]</tspan></text>
     </g>
     <g
-       id="g3219"
-       transform="translate(68.941742,185.04865)">
+       id="g5398"
+       transform="translate(-15.622268,1.2122377)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-225.84237,-48.67146)"
+         transform="translate(-149.6272,178.80167)"
          id="use3217"
          xlink:href="#path3114"
          y="0"
@@ -1152,22 +1200,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5110"
-         y="203.43915"
-         x="76.552162"
+         y="428.48779"
+         x="122.85297"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="203.43915"
-           x="76.552162"
+           y="428.48779"
+           x="122.85297"
            id="tspan5112"
            sodipodi:role="line">stash apply [&lt;stash&gt;]</tspan></text>
     </g>
     <g
-       id="g3226"
-       transform="translate(114.14534,179.3982)">
+       id="g5403"
+       transform="translate(-15.597648,1.2122377)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-271.07059,-20.23531)"
+         transform="translate(-149.65182,201.58737)"
          id="use3224"
          xlink:href="#path3114"
          y="0"
@@ -1175,22 +1223,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5114"
-         y="231.8873"
-         x="66.765945"
+         y="451.28549"
+         x="122.82835"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="231.8873"
-           x="66.765945"
+           y="451.28549"
+           x="122.82835"
            id="tspan5116"
            sodipodi:role="line">stash pop</tspan></text>
     </g>
     <g
-       id="g3233"
-       transform="translate(-10.164565,177.51471)">
+       id="g5408"
+       transform="translate(-23.427643,1.2122377)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-236.95976,33.87416)"
+         transform="translate(-236.21418,248.96439)"
          id="use3231"
          xlink:href="#rect6254"
          y="0"
@@ -1198,22 +1246,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5118"
-         y="256.97089"
-         x="91.013817"
+         y="474.4856"
+         x="100.33035"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="256.97089"
-           x="91.013817"
+           y="474.4856"
+           x="100.33035"
            id="tspan5120"
            sodipodi:role="line">stash list</tspan></text>
     </g>
     <g
-       id="g3240"
-       transform="translate(105.66967,173.74775)">
+       id="g5413"
+       transform="translate(-3.0048128,0)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-353.73573,62.12644)"
+         transform="translate(-256.63701,273.44972)"
          id="use3238"
          xlink:href="#rect6254"
          y="0"
@@ -1221,22 +1269,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5122"
-         y="284.79117"
-         x="-55.312153"
+         y="498.53891"
+         x="50.357517"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="284.79117"
-           x="-55.312153"
+           y="498.53891"
+           x="50.357517"
            id="tspan5124"
            sodipodi:role="line">stash show [&lt;stash&gt;]</tspan></text>
     </g>
     <g
-       id="g3247"
-       transform="translate(-47.83422,179.39819)">
+       id="g5418"
+       transform="translate(-3.9465628,0)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-199.29009,80.01952)"
+         transform="translate(-255.69526,296.99325)"
          id="use3245"
          xlink:href="#rect6254"
          y="0"
@@ -1244,22 +1292,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5126"
-         y="302.21625"
-         x="99.133484"
+         y="521.61444"
+         x="51.299263"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="302.21625"
-           x="99.133484"
+           y="521.61444"
+           x="51.299263"
            id="tspan5128"
            sodipodi:role="line">stash drop [&lt;stash&gt;]</tspan></text>
     </g>
     <g
-       id="g3254"
-       transform="translate(73.65045,143.61201)">
+       id="g5423"
+       transform="translate(-2.0630628,0)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="translate(-322.65826,138.40751)"
+         transform="translate(-257.57876,319.59508)"
          id="use3252"
          xlink:href="#rect6254"
          y="0"
@@ -1267,22 +1315,22 @@
       <text
          sodipodi:linespacing="125%"
          id="text5130"
-         y="361.50424"
-         x="2.2313185"
+         y="545.11627"
+         x="75.881767"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
-           y="361.50424"
-           x="2.2313185"
+           y="545.11627"
+           x="75.881767"
            id="tspan5132"
            sodipodi:role="line">stash clear</tspan></text>
     </g>
     <g
-       id="g3261"
-       transform="translate(119.12455,566.18902)">
+       id="g5523"
+       transform="translate(-15.955988,-30)">
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(3.3252515,0,0,1,-925.92236,155.35886)"
+         transform="matrix(3,0,0,1,-683.59782,616.0832)"
          id="use3259"
          xlink:href="#path3114"
          y="0"
@@ -1290,29 +1338,28 @@
       <text
          sodipodi:linespacing="125%"
          id="text5134"
-         y="407.97946"
-         x="-3.4192772"
+         y="866.27936"
+         x="123.18669"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
            id="tspan5140"
-           y="407.97946"
-           x="-3.4192772"
+           y="866.27936"
+           x="123.18669"
            sodipodi:role="line">stash branch &lt;branchname&gt; [&lt;stash&gt;]</tspan></text>
     </g>
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path3114"
-       d="m 435.46346,240.64061 -161.03786,0 0,17 161.03786,0 20,-8.5 z"
+       d="m 445.05734,238.21613 -177.90517,0 0,17 177.90517,0 22.09483,-8.5 z"
        style="fill:#ffb13b;fill-opacity:1;stroke:none" />
     <g
-       id="g4268"
-       transform="translate(72.848951,-514.37098)">
+       id="g5662">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="matrix(-1,0,0,1,1114.4788,713.081)"
+         transform="matrix(-1,0,0,1,1207.1966,198.71002)"
          id="use4238"
          xlink:href="#path3114"
          y="0"
@@ -1320,23 +1367,23 @@
       <text
          sodipodi:linespacing="125%"
          id="text3185"
-         y="965.95361"
-         x="641.38428"
+         y="449.15814"
+         x="759.33643"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Old Standard;-inkscape-font-specification:Old Standard"
          xml:space="preserve"><tspan
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
-           y="965.95361"
-           x="641.38428"
+           y="449.15814"
+           x="759.33643"
            id="tspan3187"
            sodipodi:role="line">branch --track &lt;new&gt; &lt;remote/branch&gt;</tspan></text>
     </g>
     <g
-       id="g4317"
-       transform="translate(72.848951,-514.37098)">
+       id="g5588"
+       transform="translate(-19.46285,-16.971328)">
       <use
          height="744.09448"
          width="1052.3622"
-         transform="translate(387.41501,795.0126)"
+         transform="translate(470.46324,336.40457)"
          id="use4315"
          xlink:href="#path3114"
          y="0"
@@ -1344,14 +1391,24 @@
       <text
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
-         x="659.20953"
-         y="1047.1412"
+         x="742.90741"
+         y="586.1087"
          id="text4306"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4308"
-           x="659.20953"
-           y="1047.1412">push &lt;remote&gt; &lt;branch&gt;:&lt;branch&gt;</tspan></text>
+           x="742.90741"
+           y="586.1087">push &lt;remote&gt; &lt;branch&gt;:&lt;branch&gt;</tspan></text>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4120"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Old Standard;font-style:normal;font-weight:normal;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Old Standard;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4122"><rect
+           id="rect4124"
+           width="869.17444"
+           height="579.44965"
+           x="-72.734261"
+           y="17.964088" /></flowRegion><flowPara
+         id="flowPara4126"></flowPara></flowRoot>  </g>
 </svg>

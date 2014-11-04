@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="git-cheatsheet.svg">
+  <title
+     id="title4342">git cheatsheet</title>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3893"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.82492071"
+     inkscape:cx="565.28582"
+     inkscape:cy="420.13807"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1268"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>git cheatsheet</dc:title>
+        <dc:date>2014.11.04</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Roman V. Prikhodchenko chujoii@gmail.com</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Roman V. Prikhodchenko chujoii@gmail.com</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>http://ndpsoftware.com/git-cheatsheet.html</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>git</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <g
+       id="g3151"
+       transform="translate(68,202)">
+      <rect
+         style="fill:#fefbf1;fill-opacity:1;stroke:none"
+         id="rect3416"
+         width="162.56216"
+         height="673.34998"
+         x="-42.37838"
+         y="150.36218" />
+      <rect
+         y="150.36218"
+         x="33.902702"
+         height="673.34998"
+         width="10"
+         id="rect6261"
+         style="fill:#e9ebaa;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3008"
+         y="141.22707"
+         x="21.189192"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+           y="141.22707"
+           x="21.189192"
+           id="tspan3010"
+           sodipodi:role="line">stash</tspan></text>
+    </g>
+    <g
+       id="g3156"
+       transform="translate(68,202)">
+      <rect
+         y="154.84627"
+         x="149.14595"
+         height="670.92554"
+         width="179.51352"
+         id="rect3426"
+         style="fill:#fefbf1;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3012"
+         y="139.81445"
+         x="199.17838"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+           y="139.81445"
+           x="199.17838"
+           id="tspan3014"
+           sodipodi:role="line">workspace</tspan></text>
+      <rect
+         style="fill:#e9ebaa;fill-opacity:1;stroke:none"
+         id="rect6270"
+         width="10"
+         height="670.92554"
+         x="233.90271"
+         y="154.84627" />
+    </g>
+    <g
+       id="g3161"
+       transform="matrix(1,0,0,1.3445751,284.6006,153.72273)">
+      <rect
+         style="fill:#fefbf1;fill-opacity:1;stroke:none"
+         id="rect3428"
+         width="185.16396"
+         height="500"
+         x="129.36937"
+         y="151.18742" />
+      <rect
+         y="151.18742"
+         x="216.95135"
+         height="500"
+         width="10"
+         id="rect3167"
+         style="fill:#e9ebaa;fill-opacity:1;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.79835892px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Old Standard;-inkscape-font-specification:Old Standard"
+         x="168.55174"
+         y="152.95309"
+         id="text4329"
+         sodipodi:linespacing="125%"
+         transform="scale(1.1595581,0.86239746)"><tspan
+           sodipodi:role="line"
+           id="tspan4331"
+           x="168.55174"
+           y="152.95309"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium">index</tspan><tspan
+           sodipodi:role="line"
+           x="168.55174"
+           y="170.20103"
+           id="tspan4333"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium">staging area</tspan></text>
+    </g>
+    <g
+       transform="translate(484.24985,201.05826)"
+       id="g3169">
+      <rect
+         y="158.00305"
+         x="138.78679"
+         height="679.19183"
+         width="200.23183"
+         id="rect3430"
+         style="fill:#fefbf1;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3171"
+         y="139.81445"
+         x="199.17838"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+           y="139.81445"
+           x="199.17838"
+           id="tspan3173"
+           sodipodi:role="line">local repository</tspan></text>
+      <rect
+         style="fill:#e9ebaa;fill-opacity:1;stroke:none"
+         id="rect3175"
+         width="10"
+         height="679.19183"
+         x="233.90271"
+         y="158.00305" />
+    </g>
+    <g
+       id="g3177"
+       transform="translate(663.18078,200.11652)">
+      <rect
+         style="fill:#fefbf1;fill-opacity:1;stroke:none"
+         id="rect3432"
+         width="190.81441"
+         height="687.151"
+         x="176.45647"
+         y="143.11055" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         x="199.17838"
+         y="139.81445"
+         id="text3179"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3181"
+           x="199.17838"
+           y="139.81445"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium">upstream repository</tspan></text>
+      <rect
+         y="143.11055"
+         x="266.86368"
+         height="687.151"
+         width="10"
+         id="rect3183"
+         style="fill:#e9ebaa;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       style="fill:#ff9015;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3387"
+       width="32"
+       height="32"
+       x="18.114513"
+       y="231.84811" />
+    <rect
+       y="231.84811"
+       x="50.13393"
+       height="32"
+       width="32"
+       id="rect3389"
+       style="fill:#ffb13b;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#fefbf1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3391"
+       width="32"
+       height="32"
+       x="81.952629"
+       y="231.64752" />
+    <rect
+       y="231.84811"
+       x="114.17263"
+       height="32"
+       width="32"
+       id="rect3393"
+       style="fill:#e9ebaa;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#664444;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3395"
+       width="32"
+       height="32"
+       x="146.19203"
+       y="231.84811" />
+    <rect
+       style="fill:#c2e15e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3387-1"
+       width="32"
+       height="32"
+       x="191.19478"
+       y="268.70853" />
+    <rect
+       style="fill:#fefb53;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3387-2"
+       width="32"
+       height="32"
+       x="147.35417"
+       y="269.41562" />
+    <rect
+       y="210.68472"
+       x="277.45465"
+       height="17"
+       width="161.03784"
+       id="rect6254"
+       style="fill:#e9ebaa;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path6259"
+       d="m 277.52158,278.18587 161.03785,0 20,8.5 -20,8.5 -161.03785,0 -20,-8.5 z"
+       style="fill:#ffb13b;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       x="215.68245"
+       y="317.9921"
+       id="text6288"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6290"
+         x="215.68245"
+         y="317.9921">http://ndpsoftware.com/git-cheatsheet.html</tspan></text>
+    <g
+       id="g3268"
+       transform="translate(62.349549,235.40781)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-22.242639,-57.26367)"
+         id="use3266"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4970"
+         y="165.40106"
+         x="317.76093"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="165.40106"
+           x="317.76093"
+           id="tspan4972"
+           sodipodi:role="line">status</tspan></text>
+    </g>
+    <g
+       id="g3275"
+       transform="translate(161.23243,241.05826)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-120.18378,-40.31231)"
+         id="use3273"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4974"
+         y="182.82642"
+         x="225.62779"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="182.82642"
+           x="225.62779"
+           id="tspan4976"
+           sodipodi:role="line">diff</tspan></text>
+    </g>
+    <g
+       id="g3282"
+       transform="translate(164.9994,240.65751)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(2.4327485,0,0,1,-517.70651,-13.0018)"
+         id="use3280"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4978"
+         y="210.12492"
+         x="168.7298"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="210.12492"
+           x="168.7298"
+           id="tspan4980"
+           sodipodi:role="line">diff &lt;commit or branch&gt;</tspan></text>
+    </g>
+    <g
+       id="g3289"
+       transform="translate(109.43664,226.93213)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-68.387981,-1.7008998)"
+         id="use3287"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4982"
+         y="251.3817"
+         x="227.46655"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="251.3817"
+           x="227.46655"
+           id="tspan4984"
+           sodipodi:role="line">add &lt;file... or dir...&gt;</tspan></text>
+    </g>
+    <g
+       id="g3296"
+       transform="translate(70.825225,232.58258)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-29.776577,15.25045)"
+         id="use3294"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4986"
+         y="268.30905"
+         x="317.23395"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="268.30905"
+           x="317.23395"
+           id="tspan4988"
+           sodipodi:role="line">add -u</tspan></text>
+    </g>
+    <g
+       id="g3303"
+       transform="translate(68,242)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-24.126126,29.37658)"
+         id="use3301"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4990"
+         y="281.48718"
+         x="295.42841"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="281.48718"
+           x="295.42841"
+           id="tspan4992"
+           sodipodi:role="line">rm &lt;file(s)...&gt;</tspan></text>
+    </g>
+    <g
+       id="g3310"
+       transform="translate(68,242)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-25.067868,52.92012)"
+         id="use3308"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4994"
+         y="305.03073"
+         x="294.85867"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="305.03073"
+           x="294.85867"
+           id="tspan4996"
+           sodipodi:role="line">mv &lt;file(s)...&gt;</tspan></text>
+    </g>
+    <g
+       id="g4335"
+       transform="translate(0,16)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(2.1444191,0,0,1,-270.18402,299.18198)"
+         id="use3315"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4998"
+         y="551.29858"
+         x="349.2684"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="551.29858"
+           x="349.2684"
+           id="tspan5000"
+           sodipodi:role="line">commit -a [-m 'msg']</tspan></text>
+    </g>
+    <g
+       id="g3319"
+       transform="translate(56.699099,207.64084)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-1,0,0,1,719.88906,133.90991)"
+         id="use3317"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5002"
+         y="386.02051"
+         x="267.81253"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="386.02051"
+           x="267.81253"
+           id="tspan5004"
+           sodipodi:role="line">checkout &lt;files(s)... or dir&gt;</tspan></text>
+    </g>
+    <g
+       id="g3411"
+       transform="translate(-225.15217,-358.28437)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(376.11411,507.78137)"
+         id="use3401"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5006"
+         y="729.9361"
+         x="664.69769"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="729.9361"
+           x="664.69769"
+           id="tspan5008"
+           sodipodi:role="line">reset HEAD &lt;file(s)...&gt;</tspan></text>
+    </g>
+    <g
+       id="g4210"
+       transform="translate(-135.14572,80.315149)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="matrix(-1,0,0,1,1110.7119,533.2084)"
+         id="use3405"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5010"
+         y="786.29102"
+         x="691.75537"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="786.29102"
+           x="691.75537"
+           id="tspan5012"
+           sodipodi:role="line">reset --soft HEAD^</tspan></text>
+    </g>
+    <g
+       id="g3326"
+       transform="translate(62.34955,205.75736)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-2.20164,0,0,1,1254.9496,161.22042)"
+         id="use3324"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5014"
+         y="414.27902"
+         x="306.4259"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="414.27902"
+           x="306.4259"
+           id="tspan5016"
+           sodipodi:role="line">reset --hard</tspan></text>
+    </g>
+    <g
+       id="g3333"
+       transform="translate(68,218)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-2.1860343,0,0,1,1243.133,179.11352)"
+         id="use3331"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5018"
+         y="432.16614"
+         x="286.86118"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="432.16614"
+           x="286.86118"
+           id="tspan5020"
+           sodipodi:role="line">checkout &lt;branch&gt;</tspan></text>
+    </g>
+    <g
+       id="g3340"
+       transform="translate(68,218)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-2.0976019,0,0,1,1216.9814,206.42402)"
+         id="use3338"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5022"
+         y="459.50662"
+         x="295.34106"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="459.50662"
+           x="295.34106"
+           id="tspan5024"
+           sodipodi:role="line">checkout -b &lt;name of new branch&gt;</tspan></text>
+    </g>
+    <g
+       id="g3347"
+       transform="translate(156.52372,186.92252)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-2.1392172,0,0,1,1137.8096,260.10331)"
+         id="use3345"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5026"
+         y="512.19592"
+         x="285.09592"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="512.19592"
+           x="285.09592"
+           id="tspan5028"
+           sodipodi:role="line">merge &lt;commit or branch&gt;</tspan></text>
+    </g>
+    <g
+       id="g3360"
+       transform="translate(68,182.21381)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-2.1444191,0,0,1,1230.771,289.29729)"
+         id="use3358"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5030"
+         y="541.4259"
+         x="396.78696"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="541.4259"
+           x="396.78696"
+           id="tspan5032"
+           sodipodi:role="line">rebase &lt;upstream&gt;</tspan></text>
+    </g>
+    <g
+       id="g3365"
+       transform="translate(76.475676,169.02943)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-2.0299772,0,0,1,1176.7634,326.96696)"
+         id="use3356"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5034"
+         y="579.04755"
+         x="375.80231"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="579.04755"
+           x="375.80231"
+           id="tspan5036"
+           sodipodi:role="line">cherry-pick &lt;commit&gt;</tspan></text>
+    </g>
+    <g
+       id="g3370"
+       transform="translate(70.825225,167.14595)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-2.0611886,0,0,1,1191.9208,356.16095)"
+         id="use3354"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5038"
+         y="609.15356"
+         x="394.31128"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="609.15356"
+           x="394.31128"
+           id="tspan5040"
+           sodipodi:role="line">revert &lt;commit&gt;</tspan></text>
+    </g>
+    <g
+       id="g4215"
+       transform="translate(55.086111,104.80043)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(197.04245,562.62498)"
+         id="use3403"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5042"
+         y="785.29572"
+         x="483.53802"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="785.29572"
+           x="483.53802"
+           id="tspan5044"
+           sodipodi:role="line">diff --cached [&lt;commit&gt;]</tspan></text>
+    </g>
+    <g
+       id="g4220"
+       transform="translate(73.920946,99.149979)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(168.59189,558.86398)"
+         id="use3407"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5046"
+         y="810.98059"
+         x="482.98642"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="810.98059"
+           x="482.98642"
+           id="tspan5048"
+           sodipodi:role="line">commit [-m 'msg']</tspan></text>
+    </g>
+    <g
+       id="g4225"
+       transform="translate(87.10533,100.09172)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(157.52028,580.17896)"
+         id="use3409"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5050"
+         y="833.23157"
+         x="480.44681"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="833.23157"
+           x="480.44681"
+           id="tspan5052"
+           sodipodi:role="line">commit --amend</tspan></text>
+    </g>
+    <g
+       id="g4248"
+       transform="translate(-172.14414,-524.99162)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(535.26846,671.64444)"
+         id="use4230"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5054"
+         y="893.77515"
+         x="883.93005"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="893.77515"
+           x="883.93005"
+           id="tspan5056"
+           sodipodi:role="line">log</tspan></text>
+    </g>
+    <g
+       id="g4253"
+       transform="translate(72.708709,-756.66008)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(291.49646,923.5449)"
+         id="use4232"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5058"
+         y="1146.6716"
+         x="583.41003"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="1146.6716"
+           x="583.41003"
+           id="tspan5060"
+           sodipodi:role="line">diff &lt;commit&gt; &lt;commit&gt;</tspan></text>
+    </g>
+    <g
+       id="g4258"
+       transform="translate(110.37838,-761.36879)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(253.30039,948.0933)"
+         id="use4234"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5062"
+         y="1171.196"
+         x="593.32196"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="1171.196"
+           x="593.32196"
+           id="tspan5064"
+           sodipodi:role="line">branch</tspan></text>
+    </g>
+    <g
+       id="g4263"
+       transform="translate(77.417417,-767.01924)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(287.01591,973.6069)"
+         id="use4236"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5066"
+         y="1196.7096"
+         x="590.83948"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="1196.7096"
+           x="590.83948"
+           id="tspan5068"
+           sodipodi:role="line">branch -d &lt;branch&gt;</tspan></text>
+    </g>
+    <g
+       id="g3375"
+       transform="translate(65.174775,164.32072)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-3.3564629,0,0,1,1785.6378,384.41321)"
+         id="use3352"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5070"
+         y="636.53583"
+         x="407.8071"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="636.53583"
+           x="407.8071"
+           id="tspan5072"
+           sodipodi:role="line">clone &lt;repo&gt;</tspan></text>
+    </g>
+    <g
+       id="g3386"
+       transform="translate(69.883483,199.16516)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-3.3096457,0,0,1,1763.3727,369.34534)"
+         id="use3380"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5074"
+         y="621.50397"
+         x="376.67267"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="621.50397"
+           x="376.67267"
+           id="tspan5076"
+           sodipodi:role="line">pull &lt;remote&gt; &lt;refspec&gt;</tspan></text>
+    </g>
+    <g
+       id="g3391"
+       transform="translate(68.941742,209.52432)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-3.3148477,0,0,1,1766.6837,379.7045)"
+         id="use3382"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5078"
+         y="632.57709"
+         x="357.78699"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="632.57709"
+           x="357.78699"
+           id="tspan5080"
+           sodipodi:role="line">reset --hard &lt;remote&gt;/&lt;branch&gt;</tspan></text>
+    </g>
+    <g
+       id="g4273"
+       transform="translate(163.25616,-784.65086)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="matrix(-1,0,0,1,1028.3046,1003.3144)"
+         id="use4240"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5082"
+         y="1255.473"
+         x="591.19208"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="1255.473"
+           x="591.19208"
+           id="tspan5084"
+           sodipodi:role="line">fetch &lt;remote&gt; &lt;refspec&gt;</tspan></text>
+    </g>
+    <g
+       id="g4278"
+       transform="translate(218.81892,-782.76737)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(247.1224,1022.6619)"
+         id="use4242"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5086"
+         y="1274.7845"
+         x="600.11493"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="1274.7845"
+           x="600.11493"
+           id="tspan5088"
+           sodipodi:role="line">push</tspan></text>
+    </g>
+    <g
+       id="g4283"
+       transform="translate(167.96486,-778.05867)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(294.15689,1039.9224)"
+         id="use4244"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5090"
+         y="1292.051"
+         x="592.95142"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="1292.051"
+           x="592.95142"
+           id="tspan5092"
+           sodipodi:role="line">push &lt;remote&gt; &lt;branch&gt;</tspan></text>
+    </g>
+    <g
+       id="g4324"
+       transform="translate(59.524324,118.18499)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(522.08408,34.08528)"
+         id="use4322"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5094"
+         y="257.18802"
+         x="852.95563"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="257.18802"
+           x="852.95563"
+           id="tspan5096"
+           sodipodi:role="line">branch -r</tspan></text>
+    </g>
+    <g
+       id="g4310"
+       transform="translate(-45.95075,-296.18138)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(626.01585,441.70913)"
+         id="use4246"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5098"
+         y="693.83771"
+         x="921.81036"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="693.83771"
+           x="921.81036"
+           id="tspan5100"
+           sodipodi:role="line">push &lt;remote&gt; :&lt;branch&gt;</tspan></text>
+    </g>
+    <g
+       id="g3396"
+       transform="translate(68.671246,76.493986)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-1,0,0,1,596.94877,535.05561)"
+         id="use3384"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5102"
+         y="788.10822"
+         x="217.08224"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="788.10822"
+           x="217.08224"
+           id="tspan5104"
+           sodipodi:role="line">clean</tspan></text>
+    </g>
+    <g
+       id="g3212"
+       transform="translate(64.233033,200.11652)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-1,0,0,1,505.06309,-87.41499)"
+         id="use3210"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5106"
+         y="164.70161"
+         x="86.568558"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="164.70161"
+           x="86.568558"
+           id="tspan5108"
+           sodipodi:role="line">stash save [&lt;msg&gt;]</tspan></text>
+    </g>
+    <g
+       id="g3219"
+       transform="translate(68.941742,185.04865)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-225.84237,-48.67146)"
+         id="use3217"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5110"
+         y="203.43915"
+         x="76.552162"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="203.43915"
+           x="76.552162"
+           id="tspan5112"
+           sodipodi:role="line">stash apply [&lt;stash&gt;]</tspan></text>
+    </g>
+    <g
+       id="g3226"
+       transform="translate(114.14534,179.3982)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-271.07059,-20.23531)"
+         id="use3224"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5114"
+         y="231.8873"
+         x="66.765945"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="231.8873"
+           x="66.765945"
+           id="tspan5116"
+           sodipodi:role="line">stash pop</tspan></text>
+    </g>
+    <g
+       id="g3233"
+       transform="translate(-10.164565,177.51471)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-236.95976,33.87416)"
+         id="use3231"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5118"
+         y="256.97089"
+         x="91.013817"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="256.97089"
+           x="91.013817"
+           id="tspan5120"
+           sodipodi:role="line">stash list</tspan></text>
+    </g>
+    <g
+       id="g3240"
+       transform="translate(105.66967,173.74775)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-353.73573,62.12644)"
+         id="use3238"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5122"
+         y="284.79117"
+         x="-55.312153"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="284.79117"
+           x="-55.312153"
+           id="tspan5124"
+           sodipodi:role="line">stash show [&lt;stash&gt;]</tspan></text>
+    </g>
+    <g
+       id="g3247"
+       transform="translate(-47.83422,179.39819)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-199.29009,80.01952)"
+         id="use3245"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5126"
+         y="302.21625"
+         x="99.133484"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="302.21625"
+           x="99.133484"
+           id="tspan5128"
+           sodipodi:role="line">stash drop [&lt;stash&gt;]</tspan></text>
+    </g>
+    <g
+       id="g3254"
+       transform="translate(73.65045,143.61201)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-322.65826,138.40751)"
+         id="use3252"
+         xlink:href="#rect6254"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5130"
+         y="361.50424"
+         x="2.2313185"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           y="361.50424"
+           x="2.2313185"
+           id="tspan5132"
+           sodipodi:role="line">stash clear</tspan></text>
+    </g>
+    <g
+       id="g3261"
+       transform="translate(119.12455,566.18902)">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(3.3252515,0,0,1,-925.92236,155.35886)"
+         id="use3259"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5134"
+         y="407.97946"
+         x="-3.4192772"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+           id="tspan5140"
+           y="407.97946"
+           x="-3.4192772"
+           sodipodi:role="line">stash branch &lt;branchname&gt; [&lt;stash&gt;]</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path3114"
+       d="m 435.46346,240.64061 -161.03786,0 0,17 161.03786,0 20,-8.5 z"
+       style="fill:#ffb13b;fill-opacity:1;stroke:none" />
+    <g
+       id="g4268"
+       transform="translate(72.848951,-514.37098)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="matrix(-1,0,0,1,1114.4788,713.081)"
+         id="use4238"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3185"
+         y="965.95361"
+         x="641.38428"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Old Standard;-inkscape-font-specification:Old Standard"
+         xml:space="preserve"><tspan
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+           y="965.95361"
+           x="641.38428"
+           id="tspan3187"
+           sodipodi:role="line">branch --track &lt;new&gt; &lt;remote/branch&gt;</tspan></text>
+    </g>
+    <g
+       id="g4317"
+       transform="translate(72.848951,-514.37098)">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         transform="translate(387.41501,795.0126)"
+         id="use4315"
+         xlink:href="#path3114"
+         y="0"
+         x="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+         x="659.20953"
+         y="1047.1412"
+         id="text4306"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4308"
+           x="659.20953"
+           y="1047.1412">push &lt;remote&gt; &lt;branch&gt;:&lt;branch&gt;</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -190,7 +190,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.85401704"
      inkscape:cx="505.78686"
-     inkscape:cy="356.76749"
+     inkscape:cy="173.41053"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1885,7 +1885,7 @@
        id="rect3348"
        style="fill:#e9ebaa;fill-opacity:1;fill-rule:nonzero;stroke:#e9ebaa;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     <path
-       style="fill:#ffb13b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffb13b;fill-opacity:1;stroke:none"
        d="m 132.71104,781.09448 170.78896,0 0,-17 -170.78896,0 -21.21104,8.5 z"
        id="path3354"
        inkscape:connector-type="polyline"
@@ -1904,13 +1904,35 @@
        sodipodi:linespacing="125%"><textPath
          xlink:href="#path3354"
          id="textPath3356"><tspan
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
-           id="tspan3352">test command &lt;arg&gt;</tspan></textPath></text>
+   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+   id="tspan3352">test command &lt;arg&gt;</tspan></textPath></text>
     <path
        style="fill:#ffb13b;fill-opacity:1;stroke:#664444;stroke-opacity:1"
        d="m 445.05734,238.21613 -177.90517,0 0,17 177.90517,0 22.09483,-8.5 z"
        id="path4369"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       x="25.760609"
+       y="1004.3538"
+       id="text3287"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3289"
+         x="25.760609"
+         y="1004.3538"
+         style="font-size:12px">master is the default development branch</tspan><tspan
+         sodipodi:role="line"
+         x="25.760609"
+         y="1024.3538"
+         id="tspan3291"
+         style="font-size:12px">origin is the default upstream repository</tspan><tspan
+         sodipodi:role="line"
+         x="25.760609"
+         y="1044.3538"
+         id="tspan3293"
+         style="font-size:12px">HEAD is the current branch</tspan></text>
   </g>
 </svg>
